@@ -1,8 +1,8 @@
 import React from "react";
-//import { Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 
-// Depending on the current path, this component sets the "active" class on the appropriate navigation link item
+
 function Navbar() {
   return (
     <div>
@@ -14,15 +14,26 @@ function Navbar() {
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
-        <li class="nav-item active">
-          <a class="nav-link" href="#aboutme">About Me <span class="sr-only">(current)</span></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#portfolio">Portfolio</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#contact">Contact</a>
-        </li>
+      <li className="nav-item">
+            <Link
+              to="/"
+              className={
+                window.location.pathname === "/" || window.location.pathname === "/about"
+                  ? "nav-link active"
+                  : "nav-link"
+              }
+            >
+              About Me
+            </Link>
+          </li>
+          <li className="nav-item">
+            <Link
+              to="/contact"
+              className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}
+            >
+              Contact Me
+            </Link>
+          </li>
       </ul>
     </div>
   </nav>
