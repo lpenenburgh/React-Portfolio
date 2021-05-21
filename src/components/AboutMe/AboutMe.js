@@ -1,7 +1,6 @@
 import React from "react";
 import headshot from "../../images/headshot3.png";
 import aboutme from "../../images/aboutme5.png";
-import Moon from "../Moon/Moon";
 import "./AboutMe.css";
 
 function AboutMe() {
@@ -26,7 +25,6 @@ function AboutMe() {
                </div>
              </div>
            </div>
-           <Moon />
            </section>
         </>
 
