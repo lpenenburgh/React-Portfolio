@@ -1,5 +1,6 @@
 import React from "react";
 import contactme from "../../images/contactme.png";
+import "./ContactMe.css";
 
 function ContactMe() {
     return(
