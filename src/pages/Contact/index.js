@@ -2,6 +2,7 @@ import React from "react";
 import NavBar from "../../components/NavBar/NavBar";
 import ContactMe from "../../components/ContactMe/ContactMe"
 import Moon from "../../components/Moon/Moon"
+import Footer from "../../components/Footer/Footer"
 
 function Contact() {
     return (
@@ -9,6 +10,7 @@ function Contact() {
       <NavBar />
       <ContactMe />
       <Moon />
+      <Footer />
       </>
     )
   }
