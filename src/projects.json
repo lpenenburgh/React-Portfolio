@@ -1,0 +1,38 @@
+[
+    {
+        "title": "CineMunch",
+        "picture": "/cinemunch.PNG",
+        "deployedApp": "https://lasettebrown.github.io/project-1-cinemunch-ap-for-night-inn/",
+        "github": "https://github.com/LasetteBrown/project-1-cinemunch-ap-for-night-inn"
+    },
+    {
+        "title": "Grocery Grab",
+        "picture": "/GroceryGrabLogo.PNG",
+        "deployedApp": "https://tranquil-bastion-55254.herokuapp.com/",
+        "github": "https://github.com/kelseybenedict/grocery-grab"
+    },
+    {
+        "title": "Budget Tracker",
+        "picture": "/budgettrack.png",
+        "deployedApp": "https://arcane-temple-38134.herokuapp.com/",
+        "github": "https://github.com/lpenenburgh/PWA-Budget-Tracker"
+    },
+    {
+        "title": "Fitness Tracker",
+        "picture": "/workouttrack.PNG",
+        "deployedApp": "https://thawing-savannah-75012.herokuapp.com/",
+        "github": "https://github.com/lpenenburgh/Workout-Tracker"
+    },
+    {
+        "title": "Work Day Scheduler",
+        "picture": "/WorkDayScheduler.PNG",
+        "deployedApp": "https://lpenenburgh.github.io/WorkDayScheduler/",
+        "github": "https://github.com/lpenenburgh/WorkDayScheduler"
+    },
+    {
+        "title": "Weather Dashboard",
+        "picture": "/weatherDashboard.PNG",
+        "deployedApp": "https://lpenenburgh.github.io/Weather-Dashboard/",
+        "github": "https://github.com/lpenenburgh/Weather-Dashboard"
+    }
+    ]
