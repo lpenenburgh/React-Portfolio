@@ -1,5 +1,5 @@
 import React from "react";
-//add CSS
+import "../ProjectCard/ProjectCard.css"
 
 function ProjectCard({ picture, title, deployedApp, github }) {
   return (
