@@ -8,10 +8,11 @@ function ProjectsContainer() {
     return (
       <>
        <img src={portfolio} id="portfolio" alt="text"/>
-      <section class="container" id="containerTwo">
+      <section className="container" id="containerTwo">
         <div className="row row-cols-1 row-cols-md-3"id="project-cards">
         {projects.map((project) => (
           <ProjectCard
+            key={project.title}
             picture={project.picture}
             title={project.title}
             deployedApp={project.deployedApp}
