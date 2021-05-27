@@ -8,7 +8,7 @@ import "./NavBar.css"
 
 function Navibar() {
   return (
-    <Navbar bg="info" variant="dark" expand="lg">
+    <Navbar className="color-nav" bg="info" variant="dark" expand="lg">
     <Navbar.Brand href="/">Lauren Penenburgh</Navbar.Brand>
     <Navbar.Toggle aria-controls="basic-navbar-nav" />
     <Navbar.Collapse id="basic-navbar-nav">

@@ -33,3 +33,7 @@
 .mb-3 {
     max-width: 50rem;
 }
+
+.card{
+    background-color: rgb(59, 182, 182) !important;
+}
