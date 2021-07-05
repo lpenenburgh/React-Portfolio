@@ -4,7 +4,7 @@
 }
 
 .card-text {
-    font-size: 17px;
+    font-size: 50px;
     font-family: 'Tenor Sans', sans-serif;
     text-align: center;
     
@@ -30,3 +30,6 @@
     margin-right: auto;   
 }
 
+.contactLinks {
+    font-size: 30px; 
+}

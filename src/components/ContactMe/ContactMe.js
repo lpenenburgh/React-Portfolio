@@ -15,8 +15,9 @@ function ContactMe() {
                   <p className="card-text" id="contacttext">lpenenburgh@gmail.com</p>
                   <h5 className="card-title" id="contacttitle">Phone:</h5>
                   <p className="card-text" id="contacttext">(703)969-3123</p>
-                  <a href="https://github.com/lpenenburgh" target="_blank" rel="noopener noreferrer"><h5 className="card-title">GitHub</h5></a>
-                  <a href="https://www.linkedin.com/in/lauren-penenburgh-00852a99/" target="_blank" rel=" noopener noreferrer"><h5 className="card-title">LinkedIN</h5></a>
+                  <a href="https://github.com/lpenenburgh"  target="_blank" rel="noopener noreferrer"><h5 className="card-title contactLinks">GitHub</h5></a>
+                  <a href="https://www.linkedin.com/in/lauren-penenburgh-00852a99/" target="_blank" rel=" noopener noreferrer"><h5 className="card-title contactLinks">LinkedIn</h5></a>
+                  <a href="https://drive.google.com/file/d/17pEYlllHVNMQ2sg5FZFe5KUil23L7Egs/view?usp=sharing" target="_blank" rel=" noopener noreferrer"><h5 className="card-title contactLinks" >Resume</h5></a>
                 </div>
               </div>
             </div>

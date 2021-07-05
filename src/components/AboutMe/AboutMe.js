@@ -13,13 +13,8 @@ function AboutMe() {
              <div className="col d-flex justify-content-center">
                <div className="card text-white bg-info mb-3">
                  <div className="card-body">
-                   <p className="card-text">Welcome! My name is Lauren Penenburgh. I am an aspiring full stack web developer
-                     originally from Northern Virginia. I moved to Colorado 4 years ago to be closer to the mountains, and
-                     have been in Denver for the past 2. I currently manage a Pilates studio in the Denver but
-                     after exploring coding for the first time, I was immediately hooked! I am currently enrolled in a full stack
-                     web
-                     development bootcamp at the University of Denver and hope to gain the skills to aquire a career in the
-                     field. In my free time, I enjoy learning to code, skiing, hiking, and all types of crafting.
+                   <p className="card-text">Welcome! My name is Lauren Penenburgh. I am a full stack web developer living in Steamboat Springs, Colorado. I recently earned a certificate in full stack web development from the University of Denver Coding Bootcamp to leverage my background in customer service to create utile
+              applications to solve everyday problems. In my free time, I enjoy learning to code, skiing, hiking, and all types of crafting.
                      </p>
                  </div>
                </div>
