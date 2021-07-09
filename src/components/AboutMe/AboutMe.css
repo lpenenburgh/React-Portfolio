@@ -16,6 +16,19 @@
     
 }
 
+.card-text-skills {
+    padding-top: 15px;
+    font-size: 20px;
+    font-family: 'Tenor Sans', sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.skillIcon {
+    font-size: 35px;
+    text-align: center;
+}
+
 #aboutme {
     margin-top: 20px;
     display: block;
