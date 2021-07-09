@@ -7,15 +7,15 @@
     },
     {
         "title": "Grocery Grab",
-        "picture": "https://i.imgur.com/yPsKQFV.png",
+        "picture": "https://i.imgur.com/AQ1zLmg.png",
         "deployedApp": "https://tranquil-bastion-55254.herokuapp.com/",
         "github": "https://github.com/kelseybenedict/grocery-grab"
     },
     {
-        "title": "Budget Tracker",
-        "picture": "https://i.imgur.com/Pw0UMbK.png",
-        "deployedApp": "https://arcane-temple-38134.herokuapp.com/",
-        "github": "https://github.com/lpenenburgh/PWA-Budget-Tracker"
+        "title": "Employee Directory",
+        "picture": "https://i.imgur.com/KOLbJHl.png",
+        "deployedApp": "https://lpenenburgh.github.io/React-Employee-Directory/",
+        "github": "https://github.com/lpenenburgh/React-Employee-Directory"
     },
     {
         "title": "Fitness Tracker",
