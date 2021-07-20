@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.0131109a.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.59d214dd.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.59d214dd.chunk.js.map",
-    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.65409f39.js",
-    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.65409f39.js.map",
+    "main.css": "/React-Portfolio/static/css/main.f338b40b.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.bf87221c.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.bf87221c.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.509d628b.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.509d628b.js.map",
     "static/css/2.61b4cb56.chunk.css": "/React-Portfolio/static/css/2.61b4cb56.chunk.css",
-    "static/js/2.e281cd82.chunk.js": "/React-Portfolio/static/js/2.e281cd82.chunk.js",
-    "static/js/2.e281cd82.chunk.js.map": "/React-Portfolio/static/js/2.e281cd82.chunk.js.map",
-    "static/js/3.6103e445.chunk.js": "/React-Portfolio/static/js/3.6103e445.chunk.js",
-    "static/js/3.6103e445.chunk.js.map": "/React-Portfolio/static/js/3.6103e445.chunk.js.map",
+    "static/js/2.3dadcba1.chunk.js": "/React-Portfolio/static/js/2.3dadcba1.chunk.js",
+    "static/js/2.3dadcba1.chunk.js.map": "/React-Portfolio/static/js/2.3dadcba1.chunk.js.map",
+    "static/js/3.928e9b02.chunk.js": "/React-Portfolio/static/js/3.928e9b02.chunk.js",
+    "static/js/3.928e9b02.chunk.js.map": "/React-Portfolio/static/js/3.928e9b02.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/React-Portfolio/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.0131109a.chunk.css.map": "/React-Portfolio/static/css/main.0131109a.chunk.css.map",
-    "static/js/2.e281cd82.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.e281cd82.chunk.js.LICENSE.txt",
+    "static/css/main.f338b40b.chunk.css.map": "/React-Portfolio/static/css/main.f338b40b.chunk.css.map",
+    "static/js/2.3dadcba1.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.3dadcba1.chunk.js.LICENSE.txt",
     "static/media/headshot3.b85a2632.png": "/React-Portfolio/static/media/headshot3.b85a2632.png",
     "static/media/App.css": "/React-Portfolio/static/media/kevin-ianeselli-4iTVoGYY7bM-unsplash.90fbe066.jpg",
     "static/media/logo11.5fa3fd8e.png": "/React-Portfolio/static/media/logo11.5fa3fd8e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.65409f39.js",
+    "static/js/runtime-main.509d628b.js",
     "static/css/2.61b4cb56.chunk.css",
-    "static/js/2.e281cd82.chunk.js",
-    "static/css/main.0131109a.chunk.css",
-    "static/js/main.59d214dd.chunk.js"
+    "static/js/2.3dadcba1.chunk.js",
+    "static/css/main.f338b40b.chunk.css",
+    "static/js/main.bf87221c.chunk.js"
   ]
 }
