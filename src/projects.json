@@ -11,30 +11,45 @@
     {
         "title": "Grocery Grab",
         "picture": "https://i.imgur.com/AQ1zLmg.png",
+        "summary": "Go paperless with Grocery Grab. Create, save, and text your grocery lists to yourself for a more efficient shopping experience",
+        "role": "Front end designer & database creation",
+        "tech": "Handlebars/CSS/Javascript/MySQL/Sequelize/Node,js/Express/Twillio/Heroku ",
         "deployedApp": "https://tranquil-bastion-55254.herokuapp.com/",
         "github": "https://github.com/kelseybenedict/grocery-grab"
     },
     {
         "title": "Employee Directory",
         "picture": "https://i.imgur.com/KOLbJHl.png",
+        "summary": "Allows the user to view contact information for all employees. To help the user easily find a specific employee, this app allows the user to search and sort employees based on their name",
+        "role": "Sole Author",
+        "tech": "React/Node.js/JavaScript/Bootstrap/Random User API/Github Pages",
         "deployedApp": "https://lpenenburgh.github.io/React-Employee-Directory/",
         "github": "https://github.com/lpenenburgh/React-Employee-Directory"
     },
     {
         "title": "Fitness Tracker",
         "picture": "https://i.imgur.com/hSndXpq.png",
+        "summary": "This app helps users track their fitness progress by allowing them to view, create, and track their daily cardio and resistance workouts.",
+        "role": "Back end functionality",
+        "tech": "HTML/CSS/Javascript/MongoDB/Mongoose/Express/Heroku",
         "deployedApp": "https://thawing-savannah-75012.herokuapp.com/",
         "github": "https://github.com/lpenenburgh/Workout-Tracker"
     },
     {
         "title": "Work Day Scheduler",
         "picture": "https://i.imgur.com/uYXt0W4.png",
+        "summary": "",
+        "role": "",
+        "tech": "",
         "deployedApp": "https://lpenenburgh.github.io/WorkDayScheduler/",
         "github": "https://github.com/lpenenburgh/WorkDayScheduler"
     },
     {
         "title": "Weather Dashboard",
         "picture": "https://i.imgur.com/wF0lUGp.png",
+        "summary": "",
+        "role": "",
+        "tech": "",
         "deployedApp": "https://lpenenburgh.github.io/Weather-Dashboard/",
         "github": "https://github.com/lpenenburgh/Weather-Dashboard"
     }
