@@ -9,15 +9,22 @@
 }
 
 h5 {
-    font-size: 17px;
+    font-size: 19px;
     color: white;
     font-family: 'Tenor Sans', sans-serif;
     text-align: center;
     text-decoration: underline;
 }
 
+p {
+    color: rgb(173, 85, 13);
+    font-family: 'Tenor Sans', sans-serif;
+    text-align: center;  
+    font-size: 16px;
+}
+
 h3 {
-    font-size: 40px;
+    font-size: 35px;
 }
 
 #card-column{

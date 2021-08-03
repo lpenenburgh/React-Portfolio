@@ -2,6 +2,9 @@
     {
         "title": "CineMunch",
         "picture": "https://i.imgur.com/bms693Q.png",
+        "summary": "Eliminate indecisiveness with this movie and Denver restaurant recommendation generator",
+        "role": "Front end designer",
+        "tech": "HTML/CSS/JavaScript/Foundation/Google Fonts/Movie API/Restaurant API",
         "deployedApp": "https://lasettebrown.github.io/project-1-cinemunch-ap-for-night-inn/",
         "github": "https://github.com/LasetteBrown/project-1-cinemunch-ap-for-night-inn"
     },

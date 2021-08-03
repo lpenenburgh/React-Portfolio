@@ -15,6 +15,9 @@ function ProjectsContainer() {
             key={project.title}
             picture={project.picture}
             title={project.title}
+            summary={project.summary}
+            role={project.role}
+            tech={project.tech}
             deployedApp={project.deployedApp}
             github={project.github}
           />
