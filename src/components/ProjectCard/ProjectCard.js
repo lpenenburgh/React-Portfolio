@@ -13,6 +13,10 @@ function ProjectCard({ picture, title, deployedApp, github }) {
           />
           <div className="card-body">
             <h3 className="card-title">{title}</h3>
+            <h5 className="summary">Project Summary</h5>
+            <h5 className="role">Project Role</h5>
+            <h5 className="technologies">Technologies Used</h5>
+             
             <a className="nav-link" href={deployedApp} target="_blank" rel="noopener noreferrer">
               <h5>Deployed Application</h5>
             </a>

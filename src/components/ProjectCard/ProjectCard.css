@@ -11,6 +11,9 @@
 h5 {
     font-size: 17px;
     color: white;
+    font-family: 'Tenor Sans', sans-serif;
+    text-align: center;
+    text-decoration: underline;
 }
 
 h3 {
