@@ -22,7 +22,7 @@ function ContactMe() {
                   <p className="card-text" id="contacttext">lpenenburgh@gmail.com</p>
                   <h5 className="card-title" id="contacttitle">Phone:</h5>
                   <p className="card-text" id="contacttext">(703)969-3123</p>
-                  <a href="https://drive.google.com/file/d/1eLzBkmNu2cmU2MVvNIWJW80k8-eTy023/view?usp=sharing" target="_blank" rel=" noopener noreferrer"><h5 className="card-title contactLinks" >Resume {pdf}</h5></a>
+                  <a href="https://drive.google.com/file/d/1Ikty5XNV7DFVhgQpERqTNzULw-78sBrY/view?usp=sharing" target="_blank" rel=" noopener noreferrer"><h5 className="card-title contactLinks" >Resume {pdf}</h5></a>
                   <a href="https://github.com/lpenenburgh"  target="_blank" rel="noopener noreferrer"><h5 className="card-title contactLinks">Github {github}</h5></a>
                   <a href="https://www.linkedin.com/in/lauren-penenburgh-00852a99/" target="_blank" rel=" noopener noreferrer"><h5 className="card-title contactLinks">LinkedIn {linkedin}</h5></a>
                 </div>
