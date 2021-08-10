@@ -14,11 +14,11 @@ function ProjectCard({ picture, title, summary, role, tech, deployedApp, github 
           <div className="card-body">
             <h3 className="card-title">{title}</h3>
             <h5 className="summary">Project Summary</h5>
-            <p> {summary} </p>
+            <p className="projDetail"> {summary} </p>
             <h5 className="role">Project Role</h5>
-            <p> {role} </p>
+            <p className="projDetail"> {role} </p>
             <h5 className="technologies">Technologies Used</h5>
-            <p> {tech} </p>
+            <p className="projDetail"> {tech} </p>
             <a className="nav-link" href={deployedApp} target="_blank" rel="noopener noreferrer">
               <h5>Deployed Application</h5>
             </a>

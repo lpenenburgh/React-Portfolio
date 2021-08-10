@@ -16,7 +16,7 @@ h5 {
     text-decoration: underline;
 }
 
-p {
+.projDetail {
     color: rgb(173, 85, 13);
     font-family: 'Tenor Sans', sans-serif;
     text-align: center;  
